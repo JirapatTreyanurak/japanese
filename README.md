@@ -1,4 +1,4 @@
 # japanese
 
- - [Jisho](jisho.org)
+ - [Jisho](http://jisho.org/)
  - [Tofugu](http://www.tofugu.com/)
