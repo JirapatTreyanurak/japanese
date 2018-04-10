@@ -11,6 +11,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Jisho](http://jisho.org/)
  - [Tofugu](http://www.tofugu.com/) ([Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)) ([Katakana](https://www.tofugu.com/japanese/learn-katakana/))
  - [Tae Kim's](http://www.guidetojapanese.org/learn/)
+ - [Maggie Sensei](http://maggiesensei.com/)
 
 ## Channels
  - [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA)
