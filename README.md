@@ -9,7 +9,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  
 ## Online Resources
  - [Jisho](http://jisho.org/)
- - [Tofugu](http://www.tofugu.com/) ([Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)) ([Katakana](https://www.tofugu.com/japanese/learn-katakana/))
+ - [Tofugu](http://www.tofugu.com/) ([Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)) ([Katakana](https://www.tofugu.com/japanese/learn-katakana/)) ([Reading Practice](https://www.tofugu.com/japanese/japanese-reading-practice-for-beginners/))
  - [Tae Kim's](http://www.guidetojapanese.org/learn/)
  - [Maggie Sensei](http://maggiesensei.com/)
 
