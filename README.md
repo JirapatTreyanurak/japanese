@@ -11,6 +11,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Jisho](http://jisho.org/)
  - [Tofugu](http://www.tofugu.com/) ([Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)) ([Katakana](https://www.tofugu.com/japanese/learn-katakana/)) ([Reading Practice](https://www.tofugu.com/japanese/japanese-reading-practice-for-beginners/))
  - [Tae Kim's](http://www.guidetojapanese.org/learn/)
+ - [Crunchy Nihongo!](http://crunchynihongo.com/) ([Reading Practice](http://crunchynihongo.com/beginner-japanese-reading-practice-book/))
  - [Maggie Sensei](http://maggiesensei.com/)
 
 ## Channels
