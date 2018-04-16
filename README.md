@@ -16,6 +16,6 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Maggie Sensei](http://maggiesensei.com/)
 
 ## Channels
- - [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA)
+ - [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA) ([Grammar Lessons](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N))
  - [Learn Japanese with JapanesePod101.com](https://www.youtube.com/user/japanesepod101)
  
