@@ -24,3 +24,6 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA) ([Grammar Lessons](https://www.youtube.com/playlist?list=PLd5-Wp_4tLqYZxS5j3g6kbeOfVXlTkr3N))
  - [Learn Japanese with JapanesePod101.com](https://www.youtube.com/user/japanesepod101)
  
+## Misc.
+ - [[TED] Chris Lonsdale: How to Learn Any Language in Six Months](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+ - [Marty Lobdell: Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
