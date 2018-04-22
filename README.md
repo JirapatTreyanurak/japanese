@@ -10,6 +10,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
 ## Online Resources
  - [NHK: Learn Japanese](https://www.nhk.or.jp/lesson/english/)
  - [NHK: News (in easy Japanese)](https://www3.nhk.or.jp/news/easy/)
+ - [Kanji Alive: 214 Kanji Radicals](https://kanjialive.com/214-traditional-kanji-radicals/)
  - [MLC Japanese Language School](http://www.mlcjapanese.co.jp/) ([JLPT Quiz](http://www.mlcjapanese.co.jp/n5_jlpt_kanji_quiz_01.html)) ([Kanji](http://www.mlcjapanese.co.jp/kanji.html))
  - [Jisho](http://jisho.org/)
  - [Tofugu](http://www.tofugu.com/) ([Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)) ([Katakana](https://www.tofugu.com/japanese/learn-katakana/)) ([Reading Practice](https://www.tofugu.com/japanese/japanese-reading-practice-for-beginners/))
