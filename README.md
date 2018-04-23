@@ -19,6 +19,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Crunchy Nihongo!](http://crunchynihongo.com/) ([Reading Practice](http://crunchynihongo.com/beginner-japanese-reading-practice-book/))
  - [Maggie Sensei](http://maggiesensei.com/)
  - [Add furigana to websites](http://hiragana.jp/)
+ - [Conjunctions](http://abacus.bates.edu/~kofuji/StudyResources/EnglishConjunctions.html)
 
 ## Channels
  - [Yahoo Japan](https://www.yahoo.co.jp/)
