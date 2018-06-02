@@ -20,6 +20,7 @@ For the translation and grammar notes in the みんなの日本語 series, get t
  - [Maggie Sensei](http://maggiesensei.com/)
  - [Add furigana to websites](http://hiragana.jp/)
  - [Conjunctions](http://abacus.bates.edu/~kofuji/StudyResources/EnglishConjunctions.html)
+ - [Verb Forms](https://coscom.co.jp/japaneseverb/japaneseverb01-jpr.html)
 
 ## Channels
  - [Yahoo Japan](https://www.yahoo.co.jp/)
